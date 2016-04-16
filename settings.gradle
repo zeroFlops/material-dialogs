@@ -1,1 +1,1 @@
-include ':core', ':sample', ':commons'
+include ':material-dialogs', ':sample', ':commons'

@@ -37,7 +37,7 @@ android {
 }
 
 dependencies {
-    compile project(':core')
+    compile project(':material-dialogs')
     compile project(':commons')
     compile 'com.android.support:gridlayout-v7:23.3.0'
     compile 'com.jakewharton:butterknife:7.0.1'

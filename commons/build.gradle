@@ -21,7 +21,7 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'
-    compile project(':core')
+    compile project(':material-dialogs')
 }
 
 // build a jar with source files
